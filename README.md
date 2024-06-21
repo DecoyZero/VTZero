@@ -27,3 +27,4 @@ VTZero는 웹 애플리케이션으로 VirusTotal에서 IP 정보를 가져와 �
 
 ## Demo
 [Demo Blog](https://decoypot.com/vtzero-1dab79beace4)
+![Demo](https://i.imgur.com/KLpECb1.gif)
