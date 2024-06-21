@@ -3,13 +3,13 @@
 VTZero는 웹 애플리케이션으로 VirusTotal에서 IP 정보를 가져와 국가, 소유자, 유해정도를 출력합니다.
 
 ## 설정
-1. 리포지토리를 클론
+1. 리포지토리 클론
 ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/DecoyZero/VTZero.git
    cd your-repo
 ```
 
-2. 의존성을 설치
+2. 의존성 설치
 ```sh
     pip install -r requirements.txt
 ```
