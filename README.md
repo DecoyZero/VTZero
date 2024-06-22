@@ -1,3 +1,6 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDecoyZero%2FVTZero&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+
 # VTZero
 
 VTZero는 웹 애플리케이션으로 VirusTotal에서 IP 정보를 가져와 국가, 소유자, 유해도를 출력합니다.
